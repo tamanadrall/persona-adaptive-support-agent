@@ -1,0 +1,12 @@
+{
+  "login_issue": {
+    "solution": "Please clear cache and reset your password.",
+    "technical_details": "Verify authentication logs and check token expiry.",
+    "business_impact": "Login downtime may affect user acquisition metrics."
+  },
+  "app_crash": {
+    "solution": "Please reinstall the application and restart your device.",
+    "technical_details": "Check stack trace and memory allocation logs.",
+    "business_impact": "Frequent crashes may impact customer retention."
+  }
+}
